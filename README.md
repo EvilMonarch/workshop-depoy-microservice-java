@@ -1,7 +1,7 @@
 
 [My Docker](https://hub.docker.com/u/evilmonarch)
 
-[![Build Status](https://travis-ci.com/evilmonarch/workshop-depoy-microservice-java.svg?branch=master)](https://travis-ci.com/evilmonarch/workshop-depoy-microservice-java)
+[![Build Status](https://travis-ci.com/EvilMonarch/workshop-depoy-microservice-java.svg?branch=master)](https://travis-ci.com/EvilMonarch/workshop-depoy-microservice-java)
 
 # Demo :: Deploy microservices with Docker
 
